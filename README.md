@@ -1,0 +1,1 @@
+# 2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-velitchenko-o-e
