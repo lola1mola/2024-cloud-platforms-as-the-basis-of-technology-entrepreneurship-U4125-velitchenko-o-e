@@ -20,14 +20,17 @@ Date of finished:
 <img width="1420" alt="image" src="https://github.com/lola1mola/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-velitchenko-o-e/assets/149485440/24fe9227-884f-4174-8cf1-1bf1f255e337">
 
 
-На вкладке метрики есть несколько значений, который показывают работу сервиса. 
+На вкладке Metrics есть несколько значений, который показывают работу сервиса. 
 Request count показали кол-во запросов, их было 3. 
 Request latencies показывает распределенное время запросов.
 <img width="1429" alt="image" src="https://github.com/lola1mola/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-velitchenko-o-e/assets/149485440/d572ba53-63f9-4585-831a-5da449b28d7c">
 <img width="1424" alt="image" src="https://github.com/lola1mola/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-velitchenko-o-e/assets/149485440/9bdb81ef-716f-45ed-984d-da91fd4e15c2">
-
-
 <img width="1425" alt="image" src="https://github.com/lola1mola/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-velitchenko-o-e/assets/149485440/cba8b354-1874-491a-8c98-9fd256766983">
+
+
+Во вкладке Logs можно посмотреть отправленные запросы и действия
+<img width="1407" alt="image" src="https://github.com/lola1mola/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-velitchenko-o-e/assets/149485440/fd7ce14c-ae89-460e-a1da-20b3cfc81140">
+
 
 
 Была создана дополнительная версия с портом 8090
