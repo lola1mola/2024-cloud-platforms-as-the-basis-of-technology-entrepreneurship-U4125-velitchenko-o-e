@@ -6,7 +6,7 @@ Group: U4125
 Author: Velitchenko Olga Evgenievna
 Lab: Lab1
 Date of create: 26.04.2024
-Date of finished: 
+Date of finished: 30.04.2024
 
 ## Отчет по лабораторной работе №2
 
